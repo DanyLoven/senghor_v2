@@ -1,0 +1,79 @@
+<ion-header [translucent]="true">
+  <ion-toolbar [ngStyle]="{'background-color': '#222222'}">
+    <ion-title>
+      Senghor
+    </ion-title>
+    <!--<span slot="end">
+    <ion-button (click)="isOpen = true" color="primary"><ion-icon name="add-circle"></ion-icon>Ajouter</ion-button>
+    <ion-button (click)="isOpen = false" color="danger"><ion-icon name="backspace"></ion-icon>Annuler</ion-button>
+    </span> -->
+   <!-- <ion-button slot="end" fill="clear">
+
+    </ion-button>-->
+  </ion-toolbar>
+</ion-header>
+
+<ion-content  [fullscreen]="true">
+  <div class="principal">
+
+    <!--<div *ngIf="listShuffle.length" [ngStyle]="{'display':'grid','grid-template-columns':'repeat(3,1fr)','grid-gap':'10px','grid-auto-rows':'100px','justify-items':'center','align-items':'center','border':'1px solid white'}"
+    cdkDropList
+    #todoList="cdkDropList"
+    [cdkDropListData]="listShuffle"
+    cdkDropListConnectedTo="[doneList]"
+    (cdkDropListDropped)="onDrop($event)">
+    <div *ngFor="let word of listShuffle ; let i=index" [ngStyle]="{'border':'1px solid white','padding':'10px'}" cdkDrag>
+    </div>
+  </div>-->
+
+  <ion-button class="btStart" *ngIf="!listOfWords.length" [routerLink]="['./play']" routerLinkActive="router-link-active" shape="default" color="warning" size="large" strong="true">
+    COMMENCER
+  </ion-button>
+  <div  class="authorView" >
+    <h1 class="mention" *ngIf="correct" [ngStyle]="{'color':'#e0bb2e','font-weight':'bold','margin-bottom':'40px','font-size':'5em','text-transform': 'capitalize'}">{{mention()}}</h1>
+  </div>
+
+  <div id="joker" *ngIf="jokerList.length" >
+    <h5  *ngFor="let word of jokerList ; let i=index" (click)="undoWord(i)" [ngClass]="{jokerListElement: currentJokerClass==='jokerListElement',validCitation: currentJokerClass==='validCitation',failSentence: currentJokerClass==='failSentence',validWord: i<jokerOneRight}">
+      {{jokerList[i]}}</h5>
+  </div>
+
+
+  <div  class="authorView" >
+    <img *ngIf="correct" src="{{theAuthorImage}}" alt="{{theAuthorName}}" [ngStyle]="{'height':'175px','width':'175px','border-radius':'6px'}">
+    <h4 *ngIf="correct" [ngStyle]="{'color':'white'}">{{theAuthorName}}</h4>
+  </div>
+
+  <ion-list class="myList" *ngIf="listOfWords.length">
+    <div id="tasks">
+      <h5 class="task" *ngFor="let word of listShuffle ; let i=index" (click)="selectWord(i)">
+        {{word}}
+      </h5>
+    </div>
+  </ion-list>
+
+  <div class="gameOptionBt" *ngIf="listOfWords.length">
+    <ion-button class="btValid" *ngIf="!correct" (click)="validSentence()" shape="round" color="success">
+      <ion-icon class="iconV1" slot="icon-only" name="checkmark-sharp"></ion-icon>
+    </ion-button>
+
+    <ion-button class="btValid" *ngIf="correct" (click)="takeSentence()" shape="round" color="success">
+      <ion-icon class="iconV1" slot="icon-only" name="arrow-forward-outline"></ion-icon>
+    </ion-button>
+  </div>
+
+  <div class="optJoker" *ngIf="listOfWords.length" [ngStyle]="{'display':'flex','justify-content':'center'}">
+    <ion-button class="btJoker" *ngIf="!correct" (click)="oneRightPosition()" shape="round" color="success">
+      <ion-icon class="iconV1" src="assets/icon/one_word_answer.svg"></ion-icon>
+    </ion-button>
+
+    <ion-button class="btJoker" *ngIf="!correct" (click)="allRightPosition()" shape="round" color="success">
+      <ion-icon class="iconV1" src="assets/icon/checkAll.svg"></ion-icon>
+    </ion-button>
+  </div>
+
+  </div>
+
+</ion-content>
+
+

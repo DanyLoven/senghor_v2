@@ -1,0 +1,211 @@
+
+.principal{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  background-color: #101010;
+  transition: 0.6s ease;
+}
+.myList{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #101010;
+  transition: 0.6s ease;
+}
+
+#tasks{
+  width: 100%;
+  margin: 2vh 0;
+  font-variant: small-caps;
+  font-size: calc(9px + 0.390625dvw);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  transition: 0.6s ease;
+}
+
+/*#tasks :first-child{
+  text-transform: capitalize;
+}*/
+
+.task{
+  width: 19.8vw;
+  height: 4vh;
+  font-weight:500;
+  color: black;
+  cursor: pointer;
+  background-color: #ffd534;
+  outline: none;
+  border: none;
+  border-radius: 1.2vh;
+  box-shadow: 0 0.5vh #9c6404;
+  margin: 1.6vh 0.1vw;
+  padding: 1.1vh 0;
+  text-align: center;
+  opacity: 1;
+  //position: relative;
+  transition: 0.3s ease;
+}
+
+.task:hover{
+  transform: scale(1.1);
+}
+
+.btValid{
+  --box-shadow: 0 0.5vh #555353;
+  position: relative;
+  margin-bottom: 3.3vh;
+}
+.btValid:active{
+  --box-shadow: 0 0 #555353;
+  top: 0.5vh;
+}
+
+.iconV1{
+  color: white;
+  //font-size: 32px;
+}
+.iv1, .iv2{
+  font-size: 24px;
+}
+
+
+.btJoker{
+  margin: 0 0.9vw;
+  --box-shadow: 0 0.5vh #555353;
+  position: relative;
+}
+.btJoker:active{
+  --box-shadow: 0 0 #555353;
+  top: 0.5vh;
+}
+
+.authorView{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+#joker{
+  min-width: 80%;
+  max-width: 100%;
+  outline: none;
+  border: none;
+  margin-bottom:3.3vh;
+  font-variant: small-caps;
+  font-size: calc(9px + 0.390625vw);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  transition: 0.6s ease;
+}
+
+#joker :first-child{
+  text-transform: capitalize;
+}
+
+.jokerListElement{
+  width: 19.8vw;
+  height: 4vh;
+  font-weight:500;
+  color: white;
+  background-color: black;
+  outline: none;
+  border: none;
+  border-radius: 1.2vh;
+  box-shadow: 0 0 1.1vh #ffd534;
+  margin: 1.6vh 0.1vw;
+  padding: 1.1vh 0;
+  text-align: center;
+  transition: 0.3s ease;
+}
+
+.jokerListElement:hover{
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.mention{
+  font-family: 'MyFont';
+}
+
+.validCitation{
+  width: 19.8vw;
+  height: 4vh;
+  font-weight:500;
+  color: #7dc734;
+  background-color: black;
+  outline: none;
+  border: none;
+  border-radius: 1.2vh;
+  box-shadow: 0 0 1.1vh #7dc734;
+  margin: 1.6vh 0.1vw;
+  padding: 1.1vh 0;
+  text-align: center;
+  transition: 0.3s ease;
+  pointer-events: none;
+}
+
+.validWord{
+  width: 19.8vw;
+  height: 4vh;
+  font-weight:500;
+  color: #7dc734;
+  background-color: black;
+  outline: none;
+  border: none;
+  border-radius: 1.2vh;
+  box-shadow: 0 0 10px #7dc734;
+  margin: 1.6vh 0.1vw;
+  padding: 1.1vh 0;
+  text-align: center;
+  transition: 0.3s ease;
+  pointer-events: none;
+}
+
+.failSentence{
+  width: 19.8vw;
+  height: 4vh;
+  font-weight:500;
+  color:  #ea4b1b;
+  background-color: black;
+  outline: none;
+  border: none;
+  border-radius: 1.2vh;
+  box-shadow: 0 0 10px  #ea4b1b;
+  margin: 1.6vh 0.1vw;
+  padding: 1.1vh 0;
+  text-align: center;
+  transition: 0.3s ease;
+  cursor: pointer;
+
+}
+
+.wordChoiceToRight{
+  width: 19.8vw;
+  height: 4vh;
+  font-weight:500;
+  color: black;
+  cursor: pointer;
+  background-color: #ffd534;
+  outline: none;
+  border-top: solid 2px #7dc734;
+  border-bottom: solid 2px #7dc734;
+  border-radius: 1.2vh;
+  box-shadow: 0 0.5vh #9c6404;
+  margin: 1.6vh 0.1vw;
+  padding: 1.1vh 0;
+  text-align: center;
+  //position: relative;
+  transition: 0.3s ease;
+
+  //transform: scale(1.1);
+}

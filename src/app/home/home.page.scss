@@ -1,0 +1,201 @@
+
+.principal{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  background-color: #101010;
+  transition: 0.6s ease;
+}
+.myList{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #101010;
+  transition: 0.6s ease;
+}
+
+#tasks{
+  width: 100%;
+  margin: 20px 0;
+  font-variant: small-caps;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  transition: 0.6s ease;
+}
+
+/*#tasks :first-child{
+  text-transform: capitalize;
+}*/
+
+.task{
+  width: 150px;
+  height: 40px;
+  font-weight:500;
+  color: black;
+  cursor: pointer;
+  background-color: #ffd534;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px #9c6404;
+  margin: 15px 2px;
+  padding: 10px 0;
+  text-align: center;
+  //position: relative;
+  transition: 0.3s ease;
+}
+
+.task:hover{
+  transform: scale(1.1);
+}
+
+/*.task:active{
+  box-shadow: 0 0 #9c6404;
+  top: 4px;
+  transition: 0.6s ease;
+}*/
+.btStart{
+  --box-shadow: 0 6px #9c6404;
+  --border-radius:13px;
+  font-size:larger;
+  position: relative;
+  margin-bottom: 150px;
+}
+
+.btStart:active{
+  --box-shadow: 0 0 #555353;
+  top: 6px;
+}
+
+
+.btValid{
+  --box-shadow: 0 4px #555353;
+  position: relative;
+  margin-bottom: 30px;
+}
+.btValid:active{
+  --box-shadow: 0 0 #555353;
+  top: 4px;
+}
+
+.iconV1{
+  color: white;
+}
+
+.btJoker{
+  margin: 0 15px;
+  --box-shadow: 0 4px #555353;
+  position: relative;
+}
+.btJoker:active{
+  --box-shadow: 0 0 #555353;
+  top: 4px;
+}
+
+.authorView{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+#joker{
+  min-width: 80%;
+  max-width: 100%;
+  outline: none;
+  border: none;
+  margin-bottom:30px;
+  font-variant: small-caps;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  transition: 0.6s ease;
+}
+
+#joker :first-child{
+  text-transform: capitalize;
+}
+
+.jokerListElement{
+  width: 150px;
+  height: 40px;
+  font-weight:500;
+  color: white;
+  background-color: black;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #ffd534;
+  margin: 15px 2px;
+  padding: 10px 0;
+  text-align: center;
+  transition: 0.3s ease;
+}
+
+.jokerListElement:hover{
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.mention{
+  font-family: 'Vivaldi';
+}
+
+.validCitation{
+  width: 150px;
+  height: 40px;
+  font-weight:500;
+  color: #7dc734;
+  background-color: black;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #7dc734;
+  margin: 15px 2px;
+  padding: 10px 0;
+  text-align: center;
+  transition: 0.3s ease;
+  pointer-events: none;
+}
+
+.validWord{
+  width: 150px;
+  height: 40px;
+  font-weight:500;
+  color: #7dc734;
+  background-color: black;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #7dc734;
+  margin: 15px 2px;
+  padding: 10px 0;
+  text-align: center;
+  transition: 0.3s ease;
+  pointer-events: none;
+}
+
+.failSentence{
+  width: 150px;
+  height: 40px;
+  font-weight:500;
+  color:  #ea4b1b;
+  background-color: black;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 0 10px  #ea4b1b;
+  margin: 15px 2px;
+  padding: 10px 0;
+  text-align: center;
+  transition: 0.3s ease;
+  cursor: pointer;
+
+}

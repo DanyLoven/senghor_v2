@@ -1,0 +1,497 @@
+[
+
+  {
+    "id":0,
+    "author":"Lao Tseu",
+    "citation":"l' échec est le fondement de la réussite .",
+    "authorImage":"../assets/author_image/laotseu.jpg"
+  },
+
+ {
+  "id":1,
+  "author":"Lao Tseu",
+  "citation":"la gentillesse dans les mots suscite la confiance .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":2,
+  "author":"Lao Tseu",
+  "citation":"la gentillesse dans la pensée crée la profondeur .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":3,
+  "author":"Lao Tseu",
+  "citation":"la gentillesse dans les actes engendre l' amour .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":4,
+  "author":"Lao Tseu",
+  "citation":"les mots de vérité manquent souvent d' élégance .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":5,
+  "author":"Lao Tseu",
+  "citation":"la vie est un départ et la mort un retour .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":6,
+  "author":"Lao Tseu",
+  "citation":"c' est ce qui manque qui donne la raison d' être .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":7,
+  "author":"Lao Tseu",
+  "citation":"avoir un but trace la voie .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":8,
+  "author":"Lao Tseu",
+  "citation":"la plus grande révélation est le silence .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":9,
+  "author":"Lao Tseu",
+  "citation":"l' homme qui ne tente rien ne se trompe qu' une fois .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":10,
+  "author":"Lao Tseu",
+  "citation":"sois avare de tes paroles, et les choses s' arrangeront d' elles - mêmes .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":11,
+  "author":"Lao Tseu",
+  "citation":"mieux vaut allumer une bougie que maudire les ténèbres .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":12,
+  "author":"Lao Tseu",
+  "citation":"celui qui a inventé le bateau a aussi inventé le naufrage .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":13,
+  "author":"Lao Tseu",
+  "citation":"ceux qui ne demandent rien ont tout .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":14,
+  "author":"Lao Tseu",
+  "citation":"le silence permet de trouver son destin .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{"id":15,
+  "author":"Lao Tseu",
+  "citation":"le but n' est pas le but, c' est la voie .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":16,
+  "author":"Lao Tseu",
+  "citation":"le plus grand conquérant est celui qui sait vaincre sans bataille .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+
+ {
+  "id":17,
+  "author":"Lao Tseu",
+  "citation":"le plus grand arbre est né d'une graine menue .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":18,
+  "author":"Lao Tseu",
+  "citation":"l' expérience est une lanterne qui n' éclaire que le chemin parcouru .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+
+ {"id":19,
+  "author":"Lao Tseu",
+  "citation":"celui qui sait se contenter sera toujours content .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":20,
+  "author":"Lao Tseu",
+  "citation":"trop loin à l' est, c' est l' ouest .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":21,
+  "author":"Lao Tseu",
+  "citation":"parole parée n' est pas sincère .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":22,
+  "author":"Lao Tseu",
+  "citation":"quand les gros maigrissent, les maigres meurent .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":23,
+  "author":"Lao Tseu",
+  "citation":"la seule façon d' accomplir est d' être .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+
+ {"id":24,
+  "author":"Lao Tseu",
+  "citation":"qui parle peu est lui - même et naturel .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":25,
+  "author":"Lao Tseu",
+  "citation":"le sage venge ses injures par des bienfaits .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":26,
+  "author":"Lao Tseu",
+  "citation":"être conscient de la difficulté permet de l' éviter .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":27,
+  "author":"Lao Tseu",
+  "citation":"gouverner un grand pays revient à cuire un petit poisson .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":28,
+  "author":"Lao Tseu",
+  "citation":"celui qui excelle ne discute pas, il maîtrise sa science et se tait .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":29,
+  "author":"Lao Tseu",
+  "citation":"plus on voyage loin, moins on se connaît .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+
+{
+  "id":30,
+  "author":"Lao Tseu",
+  "citation":"le sage vit dans la conscience des difficultés et n' en souffre pas .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":31,
+  "author":"Lao Tseu",
+  "citation":"un immeuble de neuf étages commence par un tas de terre .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":32,
+  "author":"Lao Tseu",
+  "citation":"celui qui sait qu' assez c' est assez, en aura toujours suffisamment .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":33,
+  "author":"Lao Tseu",
+  "citation":"le sage, sans agir, œuvre .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":34,
+  "author":"Lao Tseu",
+  "citation":"être courageux sans compassion mène à la mort .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":35,
+  "author":"Lao Tseu",
+  "citation":"demeure aussi prudent au terme qu' au début ; ainsi tu éviteras l' échec .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":36,
+  "author":"Lao Tseu",
+  "citation":"savoir et se dire que l' on ne sait pas est bien .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":37,
+  "author":"Lao Tseu",
+  "citation":"cultive en toi ce qui te le permet .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":38,
+  "author":"Lao Tseu",
+  "citation":"qui triomphe de lui - même possède la force .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":39,
+  "author":"Lao Tseu",
+  "citation":"paie le mal avec la justice, et la bonté avec la bonté .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":40,
+  "author":"Lao Tseu",
+  "citation":"si vous croyez savoir, vous ne savez pas .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":41,
+  "author":"Lao Tseu",
+  "citation":"celui qui sait se satisfaire aura toujours le nécessaire .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":42,
+  "author":"Lao Tseu",
+  "citation":"celui qui parle beaucoup est souvent réduit au silence .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":43,
+  "author":"Lao Tseu",
+  "citation":"gouverne le mieux qui gouverne le moins .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":44,
+  "author":"Lao Tseu",
+  "citation":"plus le sage donne aux autres, plus il possède .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":45,
+  "author":"Lao Tseu",
+  "citation":"plus on va loin, moins on apprend .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+{
+  "id":46,
+  "author":"Lao Tseu",
+  "citation":"ne pas connaître l' éveil conduit à la confusion .",
+  "authorImage":"../assets/author_image/laotseu.jpg"
+},
+
+ {"id":47,
+  "author":"Confucius",
+  "citation":"la nature fait les hommes semblables, la vie les rend différents .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+
+ {
+  "id":48,
+  "author":"Confucius",
+  "citation":"celui qui ne progresse pas chaque jour, recule chaque jour .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":49,
+  "author":"Confucius",
+  "citation":"le silence est un ami qui ne trahit jamais .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":50,
+  "author":"Confucius",
+  "citation":"agis avec gentillesse, mais n' attends pas de la reconnaissance .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+
+ {
+  "id":51,
+  "author":"Confucius",
+  "citation":"la joie est en tout ; il faut savoir l' extraire .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":52,
+  "author":"Confucius",
+  "citation":"celui qui aime à apprendre est bien près du savoir .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":53,
+  "author":"Confucius",
+  "citation":"oublie les injures, n' oublie jamais les bienfaits .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":54,
+  "author":"Confucius",
+  "citation":"l' homme qui déplace une montagne commence par déplacer les petites pierres .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":55,
+  "author":"Confucius",
+  "citation":"on ne peut bien gouverner sa famille qu' en donnant l' exemple .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+
+ {
+  "id":56,
+  "author":"Confucius",
+  "citation":"une image vaut mille mots .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":57,
+  "author":"Confucius",
+  "citation":"sans principes communs, ce n' est pas la peine de discuter .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":58,
+  "author":"Confucius",
+  "citation":"si tu empruntes le chemin de la vengeance, prépare deux cercueils .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":59,
+  "author":"Confucius",
+  "citation":"nous sommes frères par la nature, mais étrangers par l' éducation .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":60,
+  "author":"Confucius",
+  "citation":"ne te crois point si important que les autres te paraissent insignifiants .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":61,
+  "author":"Confucius",
+  "citation":"le premier devoir d' un enfant est de respecter ses parents .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":62,
+  "author":"Confucius",
+  "citation":"une injustice n' est rien, si on parvient à l' oublier .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+
+ {
+  "id":63,
+  "author":"Confucius",
+  "citation":"une petite impatience ruine un grand projet .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+ {
+  "id":64,
+  "author":"Confucius",
+  "citation":"ne choisis tes amis que parmi tes égaux .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":65,
+  "author":"Confucius",
+  "citation":"rendez le bien pour le bien et la justice pour le mal .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+
+{
+  "id":66,
+  "author":"Confucius",
+  "citation":"vous ne trouverez jamais ce que vous ne cherchez pas .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":67,
+  "author":"Confucius",
+  "citation":"je ne peux rien pour qui ne se pose pas de questions .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":68,
+  "author":"Confucius",
+  "citation":"se peut - il qu' un homme soit moins sage qu' un oiseau ?",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":69,
+  "author":"Confucius",
+  "citation":"lorsque les mots perdent leur sens, les gens perdent leur liberté .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":70,
+  "author":"Confucius",
+  "citation":"qui ne connaît la valeur des mots ne saurait connaître les hommes .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":71,
+  "author":"Confucius",
+  "citation":"l' invariabilité dans le milieu est ce qui constitue la vertu .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":72,
+  "author":"Confucius",
+  "citation":"le tout est plus grand que la somme des parties .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":73,
+  "author":"Confucius",
+  "citation":"quand les riches maigrissent, les pauvres crèvent .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":74,
+  "author":"Confucius",
+  "citation":"deux hommes qui suivent des voies différentes ne peuvent se rencontrer .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":75,
+  "author":"Confucius",
+  "citation":"on peut connaître la vertu d' un homme en observant ses défauts .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":76,
+  "author":"Confucius",
+  "citation":"on s' égare rarement en s' imposant soi - même des règles sévères .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":77,
+  "author":"Confucius",
+  "citation":"appliquez - vous à garder en toute chose le juste milieu .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":78,
+  "author":"Confucius",
+  "citation":"dépasser le but, ce n' est pas l' atteindre .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":79,
+  "author":"Confucius",
+  "citation":"si tu veux juger des mœurs d' un peuple, écoute sa musique .",
+  "authorImage":"../assets/author_image/confucius.png"
+},
+{
+  "id":80,
+  "author":"Confucius",
+  "citation":"un érudit sans vertu est comme un aveugle qui porte une torche .",
+  "authorImage":"../assets/author_image/confucius.png"
+}
+
+]
